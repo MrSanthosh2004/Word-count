@@ -38,9 +38,9 @@ print('number of words: ',num_words)
 ```
 ### OUTPUT:
 Text file :
-!['output'](/word text.png)
+!['output'](https://github.com/MrSanthosh2004/Word-count/blob/main/word%20txt.png)
 Main output:
-!['output'](/word.png)
+!['output'](https://github.com/MrSanthosh2004/Word-count/blob/main/word.png)
 
 
 ## RESULT:
